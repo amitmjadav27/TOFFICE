@@ -1,0 +1,5 @@
+.terraform*
+.terraform
+VPC/
+ec2-instance/terraform.tfvars
+ec2-instance/.terraform/
